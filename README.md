@@ -22,8 +22,8 @@ I’m an experienced **web developer**, **sound engineer**, and **graphic design
 ---
 
 ### 🛠️ Skills
-- **Frontend**: React, Redux, Tailwind CSS, Flutter
-- **Backend**: Node.js, Express.js, PHP, MySQL, MongoDB
+- **Frontend**: React,Tailwind CSS, Angular
+- - **Backend**: Node.js, Express.js, PHP, MySQL, MongoDB
 - **API**: RESTful APIs, GraphQL
 - **Automation & Testing**: Selenium, Appium, Postman, MQTT Protocol
 - **Cloud & Hosting**: AWS, Firebase, Netlify, Vercel
