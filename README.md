@@ -1,12 +1,12 @@
 # 👋 Hi, I’m **Luminous Vee** 👋  
-**Founder | Senior Software Engineer | Data Architect**
+**Founder | Junior Software Engineer | Data Architect**
 
 ### 🚀 About Me  
 I’m an experienced **web developer**, **sound engineer**, and **graphic designer** with a passion for leveraging **technology** to **connect communities** and **break down cultural barriers**. My focus is on developing innovative solutions that merge technology with real-world applications, especially in the fields of **language translation**, **community platforms**, and **digital ecosystems**.
 
 - 🎨 **Creative professional**: Combining design, technology, and innovation to build engaging and intuitive user experiences.
 - 🌱 I’m currently working on **Despatch Connect**, a community-driven React app aimed at empowering the town of **Despatch** in South Africa through platforms like **Smart Farming**, **Tourism**, **E-commerce**, and **Digital Skills Training**.
-- 💬 Ask me about **React**, **Redux**, **Node.js**, **MongoDB**, and **sound engineering**.
+- 💬 Ask me about **React**, **Laravel**, **Node.js**, **MYSQL**, and **Python**.
 - 💻 I’m also building an **isiXhosa language translator** extension to preserve and promote language diversity.
 - 🎯 My mission is to bridge the gap between **tradition** and **technology**, creating tools that empower users to thrive in a digital world.
 
@@ -27,7 +27,7 @@ I’m an experienced **web developer**, **sound engineer**, and **graphic design
 - **API**: RESTful APIs, GraphQL
 - **Automation & Testing**: Selenium, Appium, Postman, MQTT Protocol
 - **Cloud & Hosting**: AWS, Firebase, Netlify, Vercel
-- **Tools**: Git, Docker, Postman, Visual Studio Code, Figma
+- **Tools**: Git, Docker, Postman, Visual Studio Code, Notepad ++ 
 
 ---
 
